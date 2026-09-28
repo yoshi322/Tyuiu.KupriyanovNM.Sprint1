@@ -1,5 +1,5 @@
-﻿using Tyuiu.KupriyanovNM.Sprint1.Task0.V0.Lib;
-namespace Tyuiu.KupriyanovNM.Sprint1.Task0.V0
+﻿using Tyuiu.KupriyanovNM.Sprint1.Task0.V4.Lib;
+namespace Tyuiu.KupriyanovNM.Sprint1.Task0.V4
 {
     internal class Program
     {
@@ -22,7 +22,7 @@ namespace Tyuiu.KupriyanovNM.Sprint1.Task0.V0
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* 10 / (2 + 3)                                                            *");
+            Console.WriteLine("* 4 / 2 * 5 / (3 + 2) * (5 - 2)                                           *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
