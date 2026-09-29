@@ -10,7 +10,7 @@ namespace Tyuiu.KupriyanovNM.Sprint1.Task2.V13.Test
             DataService ds = new DataService();
             int x = 1;
             var res = ds.ConvertMilesToKm(x);
-            Assert.AreEqual(1.609, res);
+            Assert.AreEqual(1.609344, res);
         }
     }
 }
